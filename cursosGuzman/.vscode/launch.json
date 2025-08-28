@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open cursos.html",
-            "file": "c:\\Users\\juanp\\Documents\\cursosGuzman\\cursosGuzman\\index.html"
+            "file": "c:\\Users\\juanp\\Documents\\cursosGuzman\\Cursos_Guzman\\cursosGuzman\\index.html"
         }
     ]
 }
